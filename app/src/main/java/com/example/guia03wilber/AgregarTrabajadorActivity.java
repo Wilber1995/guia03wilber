@@ -23,6 +23,7 @@ public class AgregarTrabajadorActivity extends AppCompatActivity {
     private Bundle bundle;
     private int idEleccion;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
