@@ -6,8 +6,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.guia03wilber.R;
 
+import com.example.guia03wilber.R;
 
 public class ViewHolderTrabajador extends RecyclerView.ViewHolder {
     private TextView codigoTrabajador;
@@ -44,4 +44,3 @@ public class ViewHolderTrabajador extends RecyclerView.ViewHolder {
         return salarioTrabajador;
     }
 }
-
